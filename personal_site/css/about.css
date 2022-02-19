@@ -1,0 +1,28 @@
+main {
+    color: aliceblue;
+    width: 750px;
+    margin: 0 auto;
+    font-family: 'Abel', sans-serif;
+}
+
+img {
+    width: 175px;
+    height: 175px;
+    border-radius: 20%;
+    
+}
+
+article {
+    border-bottom: 2px solid aliceblue;
+    padding: 10px;
+}
+
+.things {
+    border-bottom: 2px solid aliceblue;
+}
+
+.soccer {
+    text-align: right;
+}
+
+
